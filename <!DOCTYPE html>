@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lyvie Makeup</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css"> 
+<body>
+    <header>
+        <h1>Lyvie Makeup</h1>
+        <p>Giving you a Ravishing and Glamorous look</p>
+    </header>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Smoky Makeup</li>
+            <li>Wedding Makeup</li>
+            <li>Bridal Makeup</li>
+            <li>Brow Carving</li>
+            <li>Lash Extensions</li>
+        </ul>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Mbaegbu Olive, a passionate makeup artist dedicated to making you look and feel your best. Whether it's for a special event or a simple makeover, I offer a range of services to suit your needs.
+        </p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>
+            Email: <a href="mailto:lyviemakeup@example.com">lyviemakeup@example.com</a><br>
+            Phone: 080169242544
+        </p>
+    </section>
+    <footer>
+        &copy; 2025 Lyvie Makeup. All rights reserved.
+    </footer>
+</body>
+</html>
